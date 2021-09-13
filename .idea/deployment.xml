@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="fzq@59.172.63.2:22122 password">
+    <serverData>
+      <paths name="fzq@59.172.63.2:22122 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data1/home/fzq/projects/nlpclassification" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="fzq@59.172.63.2:22122 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data1/home/fzq/projects/nlpclassification" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="fzq@59.172.63.2:22122 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data1/home/fzq/projects/nlpclassification" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="fzq@59.172.63.2:22122 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data1/home/fzq/projects/nlpclassification" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
